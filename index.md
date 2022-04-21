@@ -1,6 +1,6 @@
 **Welcome to Security Board**
 
-### Critical Vulnerabilities
+### Dangerous Vulnerabilities
 
 
 * CVE-2022-22965 Spring4Shell

@@ -9,3 +9,8 @@
 * CVE-2022-26923, CVE-2022-26925 Microsoft May, 2022, (5/12)
 
 
+CVE               |Vendor           |Date Added to List |Due Date      |Notes 
+------------------|-----------------|-------------------|--------------|---------------------------
+CVE-2022-26923    |Mircrosoft       |2021-05-12         |2021-05-26    |Microsoft May Patch 
+CVE-2022-26925    |Mircrosoft       |2021-05-12         |2021-05-26    |Microsoft May Patch
+

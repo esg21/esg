@@ -12,7 +12,7 @@ CVE-2022-26925    |Microsoft             |                  |2022-05-12         
 CVE-2022-30190    |Microsoft msdt        |Follina           |2022-06-01         | 2022-06-10   | [workaround](https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/)
 CVE-2022-2274     |OpenSSL RCE           |                  |2022-07-07         | 2022-08-04   | [upgrade to v3.0.5, 1.1.1/1.0.2 are not affected.](https://www.openssl.org/news/secadv/20220705.txt) [workaround](https://esg21.github.io/esg/2022-2274)
 CVE-2022-22047    |Microsoft Windows     |                  |2022-07-13         | 2022-08-10   | [MS July Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-22047), 0-day Privilege Escalation 
-CVE-2022-34713    |Microsoft MSDT        |DogWalk           |2022-08-17         | 2022-09-02   | [MS_Aug_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34713)
+CVE-2022-34713    |Microsoft MSDT        |DogWalk           |2022-08-17         | 2022-09-01   | [MS_Aug_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34713)
 
 
 

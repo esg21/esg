@@ -13,7 +13,7 @@ CVE-2022-30190    |Microsoft msdt        |Follina           |2022-06-01         
 CVE-2022-2274     |OpenSSL RCE           |                  |2022-07-07         | 2022-08-04   | [upgrade to v3.0.5, 1.1.1/1.0.2 are not affected.](https://www.openssl.org/news/secadv/20220705.txt) [workaround](https://esg21.github.io/esg/2022-2274)
 CVE-2022-22047    |Microsoft Windows     |                  |2022-07-13         | 2022-08-10   | [MS July Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-22047), 0-day Privilege Escalation 
 CVE-2022-34713    |Microsoft MSDT        |DogWalk           |2022-08-17         | 2022-09-01   | [Microsoft_Aug_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34713)
-CVE-2022-26113    |Fortinet FortiClient  |                  |2022-09-01         | 2022-09-23   | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-044)  [Vulnerability](https://esg21.github.io/esg/2022-26113)
+CVE-2022-26113    |Fortinet FortiClient  |                  |2022-09-01         | 2022-09-23   | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-044),  [Vulnerability](https://esg21.github.io/esg/2022-26113)
 
 
 

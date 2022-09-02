@@ -14,6 +14,8 @@ CVE-2022-2274     |OpenSSL RCE           |                  |2022-07-07         
 CVE-2022-22047    |Microsoft Windows     |                  |2022-07-13         | 2022-08-10   | [MS July Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-22047), 0-day Privilege Escalation 
 CVE-2022-34713    |Microsoft MSDT        |DogWalk           |2022-08-17         | 2022-09-01   | [Microsoft_Aug_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34713)
 CVE-2022-26113    |Fortinet FortiClient  |                  |2022-09-01         | 2022-09-23   | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-044),  [Vulnerability](https://esg21.github.io/esg/2022-26113)
+CVE-2022-2588     |Linux Kernel          |Dirty Cred        |2022-09-02         |              | patch is developing  
+
 
 
 

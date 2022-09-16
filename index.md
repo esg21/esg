@@ -14,7 +14,7 @@ CVE-2022-2274     |OpenSSL RCE           |                  |2022-07-07         
 CVE-2022-22047    |Microsoft Windows     |                  |2022-07-13         | 2022-08-10   | [MS July Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-22047), 0-day Privilege Escalation 
 CVE-2022-34713    |Microsoft MSDT        |DogWalk           |2022-08-17         | 2022-09-01   | [Microsoft_Aug_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34713)
 CVE-2022-26113    |Fortinet FortiClient  |                  |2022-09-01         | 2022-09-23   | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-044),  [Vulnerability](https://esg21.github.io/esg/2022-26113)
-CVE-2022-2588     |Linux Kernel          |Dirty Cred        |2022-09-02         |              | [redhat](https://access.redhat.com/security/cve/cve-2022-2588) <br> [ubuntu](https://ubuntu.com/security/CVE-2022-2588) <br>[SuSe](https://www.suse.com/security/cve/CVE-2022-2588.html) <br>[oracle linux](https://linux.oracle.com/cve/CVE-2022-2588.html)
+CVE-2022-2588     |Linux Kernel          |Dirty Cred        |2022-09-02         |              | [Redhat](https://access.redhat.com/security/cve/cve-2022-2588) <br> [Ubuntu](https://ubuntu.com/security/CVE-2022-2588) <br>[SuSe](https://www.suse.com/security/cve/CVE-2022-2588.html) <br>[Oracle Linux](https://linux.oracle.com/cve/CVE-2022-2588.html)
 CVE-2022-37969 <br>CVE-2022-34721 <br>CVE-2022-34718 | Microsoft Windows |  | 2022-09-16| 2022-9-29    | Microsoft Sep Patch
 
 

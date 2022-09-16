@@ -15,6 +15,7 @@ CVE-2022-22047    |Microsoft Windows     |                  |2022-07-13         
 CVE-2022-34713    |Microsoft MSDT        |DogWalk           |2022-08-17         | 2022-09-01   | [Microsoft_Aug_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34713)
 CVE-2022-26113    |Fortinet FortiClient  |                  |2022-09-01         | 2022-09-23   | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-044),  [Vulnerability](https://esg21.github.io/esg/2022-26113)
 CVE-2022-2588     |Linux Kernel          |Dirty Cred        |2022-09-02         |              | patch is developing  
+CVE-2022-37969,CVE-2022-34721,CVE-2022-34718 | Microsoft Windows |  | 2022-09-16| 2022-9-29    | Microsoft Sep Patch
 
 
 

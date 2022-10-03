@@ -16,7 +16,7 @@ CVE-2022-34713    |Microsoft MSDT        |DogWalk           |2022-08-17         
 CVE-2022-26113    |Fortinet FortiClient  |                  |2022-09-01         | 2022-09-23   | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-044),  [Vulnerability](https://esg21.github.io/esg/2022-26113)
 CVE-2022-2588     |Linux Kernel          |Dirty Cred        |2022-09-02         | 2022-10-7    | [Redhat](https://access.redhat.com/security/cve/cve-2022-2588) <br> [Ubuntu](https://ubuntu.com/security/CVE-2022-2588) <br>[SuSe](https://www.suse.com/security/cve/CVE-2022-2588.html) <br>[Oracle Linux](https://linux.oracle.com/cve/CVE-2022-2588.html)
 CVE-2022-37969 <br>CVE-2022-34721 <br>CVE-2022-34718 | Microsoft Windows |  | 2022-09-16| 2022-9-29    | Microsoft Sep Patch
-
+CVE-2022-41040 <br>CVE-2022-41082 | Microsoft Exchange <br>2013<br>2016<br>2019 | ProxyNotShell | 2022-09-30 | 2022-9-30 | [Microsoft customer guidance](https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/)
 
 
 

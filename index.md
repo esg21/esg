@@ -17,6 +17,6 @@ CVE-2022-26113    |Fortinet FortiClient  |                  |2022-09-01         
 CVE-2022-2588     |Linux Kernel          |Dirty Cred        |2022-09-02         | 2022-10-7    | [Redhat](https://access.redhat.com/security/cve/cve-2022-2588) <br> [Ubuntu](https://ubuntu.com/security/CVE-2022-2588) <br>[SuSe](https://www.suse.com/security/cve/CVE-2022-2588.html) <br>[Oracle Linux](https://linux.oracle.com/cve/CVE-2022-2588.html)
 CVE-2022-37969 <br>CVE-2022-34721 <br>CVE-2022-34718 | Microsoft Windows |  | 2022-09-16| 2022-9-29    | Microsoft Sep Patch
 CVE-2022-41040 <br>CVE-2022-41082 | Microsoft Exchange 2013, 2016, 2019 | ProxyNotShell | 2022-09-30 | 2022-9-30 | [Microsoft customer guidance](https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/)
-
+CVE-2022-40684    | Fortinet FortiOS     |              |2022-10-11             | 2022-10-21   | [upgrade & workaround](https://www.fortiguard.com/psirt/FG-IR-22-377)
 
 

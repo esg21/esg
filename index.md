@@ -19,4 +19,7 @@ CVE-2022-37969 <br>CVE-2022-34721 <br>CVE-2022-34718 | Microsoft Windows |  | 20
 CVE-2022-41040 <br>CVE-2022-41082 | Microsoft Exchange 2013, 2016, 2019 | ProxyNotShell | 2022-09-30 | 2022-9-30 | [Microsoft customer guidance](https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/)
 CVE-2022-40684    | Fortinet FortiOS     |              |2022-10-11             | 2022-10-21   | [upgrade & workaround](https://www.fortiguard.com/psirt/FG-IR-22-377)
 CVE-2022-42889    | Apache Commons Text  | Text4Shell   |2022-10-20             | 2022-11-3    | AFFECTED:Apache Commons Text v1.5~1.9 AND use "StringSubstitutor" interpolator <br> Solution: update to v1.10
+CVE-2022-27510 <br> CVE-2022-27510 <br> CVE-2022-27516 <br> | Citrix Gateway and ADC |  | 2022-11-14 | 2022-11-28 | [Official Advisories](https://support.citrix.com/article/CTX463706/citrix-gateway-and-citrix-adc-security-bulletin-for-cve202227510-cve202227513-and-cve202227516)
+
+
 

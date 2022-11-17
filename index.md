@@ -2,7 +2,7 @@
 
 ### Dangerous Vulnerabilities
 
-| <img width="400">CVE |Vendor/Product |Vulnerability Name| <img width="250">Date Added to List | <img width="250">Due Date |Notes 
+| <img width="400">CVE |Vendor/Product |Vulnerability Name| Date Added to List | <img width="250">Due Date |Notes 
 ------------------------------------|---------------|------------------|-------------------|--------------|----------------------------------
 CVE-2022-22965    |Spring Framework      |Spring4Shell      |                   |              |
 CVE-2022-26809    |Microsoft             |                  |                   |              |

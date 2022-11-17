@@ -4,7 +4,7 @@
 
 CVE               |Vendor/Product        |Vulnerability Name|Date Added to List |Due Date      |Notes 
 ------------------|----------------------|------------------|-------------------|--------------|------------------------------------------------
-<div style="width:100pt"> CVE-2022-22965    |Spring Framework      |Spring4Shell      |                   |              |
+<div style="width:100pt"> CVE-2022-22965</div>    |Spring Framework      |Spring4Shell      |                   |              |
 CVE-2022-26809    |Microsoft             |                  |                   |              |
 CVE-2022-29072    |7-zip                 |                  |                   |              |
 CVE-2022-26923    |Microsoft             |                  |2022-05-12         | 2022-06-02   | [MS May Patch](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-26923), ADCS Priv-Esc

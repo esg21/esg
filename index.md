@@ -22,5 +22,5 @@ CVE-2022-42889    | Apache Commons Text  | Text4Shell   |2022-10-20             
 CVE-2022-27510 <br> CVE-2022-27510 <br> CVE-2022-27516 <br> | Citrix Gateway and ADC |  | 2022-11-14 | 2022-11-28 | [Official Advisories](https://support.citrix.com/article/CTX463706/citrix-gateway-and-citrix-adc-security-bulletin-for-cve202227510-cve202227513-and-cve202227516)
 CVE-2022-41128 <br> CVE-2022-41073 <br>  CVE-2022-41125 <br>  CVE-2022-41091 <br>  CVE-2022-41040 <br> CVE-2022-41082 <br> CVE-2022-41080 <br> | Microsoft | zero-days | 2022-11-14 | 2022-12-1| [MS Nov Patch](https://msrc.microsoft.com/update-guide/releaseNote/2022-Nov)
 CVE-2022-35843 | Fortinet FortiOS |             | 2022-12-08 | 2022-01-08 | [Official Advisories](https://fortiguard.fortinet.com/psirt/FG-IR-22-255)
-CVE-2022-42475 | Fortinet FortiOS | SSLVPN      | 2022-12-13 | 2022-12-15 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-398) <br> 如果無法更新 <br> 如果非必需，禁用VPN-SSL功能 <br> 觀察日誌並驗證沒有進行未經授權的訪問<br> 設置條件存取，如 GeoIP 限制您的曝光程度 |
+CVE-2022-42475 | Fortinet FortiOS | SSLVPN      | 2022-12-13 | 2022-12-15 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-398) <br> 如果無法更新 <br> 如果非必需，禁用VPN-SSL功能 <br> 觀察日誌並驗證未經授權訪問<br> 設置條件存取，如 GeoIP 限制您的曝光程度 |
 

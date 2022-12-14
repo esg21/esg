@@ -1,0 +1,16 @@
+# CVE-2022-27518
+
+## 前提
+* 如果有將ADC或Citrix gateway設定為 **SAML SP** 或 **SAML IdP**
+
+## 受影響版本
+Citrix ADC and Citrix Gateway 13.0 before 13.0-58.32
+Citrix ADC and Citrix Gateway 12.1 before 12.1-65.25
+Citrix ADC 12.1-FIPS before 12.1-55.291
+Citrix ADC 12.1-NDcPP before 12.1-55.291
+
+## 解決方式 (只能升級)
+Citrix ADC and Citrix Gateway 13.0-58.32 and later releases of 13.0
+Citrix ADC and Citrix Gateway 12.1-65.25 and later releases of 12.1
+Citrix ADC 12.1-FIPS 12.1-55.291 and later releases of 12.1-FIPS
+Citrix ADC 12.1-NDcPP 12.1-55.291 and later releases of 12.1-NDcPP

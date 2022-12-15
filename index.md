@@ -25,7 +25,7 @@ CVE-2022-35843 | Fortinet FortiOS |             | 2022-12-08 | 2022-01-08 | [Off
 CVE-2022-42475 | Fortinet FortiOS | SSL-VPN      | 2022-12-13 | 2022-12-15 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-398) <br> [Workarond](https://esg21.github.io/esg/2022-42475) |
 CVE-2022-37958 | Microsoft  |    | 2022-12-14 |  |Microsoft Sep Patch <br> -Reclassified <br> -Wormable <br> [Official Advisories](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-37958)
 CVE-2022-27518 | Citrix |  | 2022-12-14 | 2022-12-22 | 前提:有設定為SAML IdP或SP <br> [Official Advisories](https://support.citrix.com/article/CTX474995/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202227518)<br> [Detail](https://esg21.github.io/esg/2022-27518)
-CVE-2022-46169 | Cacti 1.22.2 |    | 2022-12-15 | 2022-01-16 | [Official Advisories](https://github.com/Cacti/cacti/security/advisories/GHSA-6p93-p743-35gf) <br> [Detail](https://esg21.github.io/esg/2022-46169)
+CVE-2022-46169 | Cacti 1.22.2 |    | 2022-12-15 | 2023-01-16 | [Official Advisories](https://github.com/Cacti/cacti/security/advisories/GHSA-6p93-p743-35gf) <br> [Detail](https://esg21.github.io/esg/2022-46169)
 
 
 

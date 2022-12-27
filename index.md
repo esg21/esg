@@ -28,5 +28,8 @@ CVE-2022-27518 | Citrix |  | 2022-12-14 | 2022-12-22 | 前提:有設定為SAML I
 CVE-2022-46169 | Cacti 1.2.22 |    | 2022-12-15 | 2023-01-16 | [Official Advisories](https://github.com/Cacti/cacti/security/advisories/GHSA-6p93-p743-35gf) <br> [Detail](https://esg21.github.io/esg/2022-46169)
 CVE-2022-26500 <br> CVE-2022-26501 | Veeam |  | 2022-12-19 | 2023-01-05 | [Official Advisories](https://www.veeam.com/kb4288)
 CVE-2022-44698 | Microsoft defender |   | 2022-12-19 | 2023-01-19 | [Microsoft_Dec_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-44698)
+CVE-2022-47939 | Linux Kernel ksmbd |   | 2022-12-27 | 2023-01-19 | 前提: 有開啟ksmbd <br> 影響版本: <br> 5.15-5.19.2 <br> 安全: <br> 5.15.61 5.19.2或更高 |
+
+
 
 

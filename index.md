@@ -30,6 +30,6 @@ CVE-2022-26500 <br> CVE-2022-26501 | Veeam |  | 2022-12-19 | 2023-01-05 | [Offic
 CVE-2022-44698 | Microsoft defender |   | 2022-12-19 | 2023-01-19 | [Microsoft_Dec_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-44698)
 CVE-2022-47939 | Linux Kernel ksmbd |   | 2022-12-27 | 2023-01-19 | 前提: 有開啟ksmbd <br> 影響版本:5.15-5.19.2 <br> 安全:5.15.61 5.19.2或更高 |
 CVE-2022-23529 | JsonWebToken 8.5.1 | OpenSource library | 2023-1-12 | 2023-1-19 | 影響版本:  <= 8.5.1 <br> 安全版本: 9.0.0
-CVE-2023-21674 <br> CVE-2023-21549 <br> CVE-2023-21746 | Windows | | 2023-1-12 | 2023-1-26 | [Microsoft_Jan_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21674)
+CVE-2023-21674 <br> CVE-2023-21549 <br> CVE-2023-21746 | Windows | localpotato | 2023-1-12 | 2023-1-26 | [Microsoft_Jan_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21674)
 CVE-2022-48008 | LimeSurvey 5.4.15 |    | 2023-2-8 | 2023-2-16 | 影響版本: v5.4.15 
 CVE-2023-21715 <br> CVE-2023-23376 <br> CVE-2023-21823 | Microsoft | zero-days | 2022-02-15 | 2022-03-01 | [Microsoft Feb Patch]( https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-21715)

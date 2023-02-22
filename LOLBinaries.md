@@ -9,7 +9,8 @@ certutil.exe <br>
 msbuild.exe  <br>
 wmic.exe  <br>
 mshta.exe  <br>
- <br>
+wscript.exe <br>
+installutil.exe <br>
 mofcomp.exe  <br>
 cmstp.exe <br>
 windbg.exe  <br>

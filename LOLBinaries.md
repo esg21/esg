@@ -1,7 +1,7 @@
 ## LOLBinaries list
 
 
-powershell.exe 
+powershell.exe <br>
 psexec.exe 
 bitsadmin.exe 
 regsvr32.exe 

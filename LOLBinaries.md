@@ -11,6 +11,7 @@ wmic.exe  <br>
 mshta.exe  <br>
 wscript.exe <br>
 installutil.exe <br>
+sc.ext <br>
 mofcomp.exe  <br>
 cmstp.exe <br>
 windbg.exe  <br>

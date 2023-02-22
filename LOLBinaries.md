@@ -2,17 +2,17 @@
 
 
 powershell.exe <br>
-psexec.exe 
-bitsadmin.exe 
-regsvr32.exe 
-certutil.exe
-msbuild.exe 
-wmic.exe 
-mshta.exe 
-
-mofcomp.exe 
-cmstp.exe 
-windbg.exe 
-cdb.exe 
-csc.exe 
+psexec.exe <br>
+bitsadmin.exe <br>
+regsvr32.exe <br>
+certutil.exe <br>
+msbuild.exe  <br>
+wmic.exe  <br>
+mshta.exe  <br>
+ <br>
+mofcomp.exe  <br>
+cmstp.exe <br>
+windbg.exe  <br>
+cdb.exe <br>
+csc.exe <br>
 

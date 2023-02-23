@@ -1,4 +1,4 @@
-## LOLBinaries list
+## LOTLBinaries list
 
 
 powershell.exe <br>

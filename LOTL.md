@@ -11,7 +11,7 @@ wmic.exe  <br>
 mshta.exe  <br>
 wscript.exe <br>
 installutil.exe <br>
-sc.ext <br>
+sc.exe <br>
 vssadmin.exe <br>
 mofcomp.exe  <br>
 cmstp.exe <br>

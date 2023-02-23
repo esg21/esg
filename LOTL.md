@@ -2,6 +2,7 @@
 
 
 powershell.exe <br>
+powershell_ise.exe <br>
 psexec.exe <br>
 bitsadmin.exe <br>
 regsvr32.exe <br>

@@ -34,7 +34,9 @@ CVE-2023-21674 <br> CVE-2023-21549 <br> CVE-2023-21746 | Windows | localpotato |
 CVE-2022-48008 | LimeSurvey 5.4.15 |    | 2023-2-8 | 2023-2-16 | 影響版本: v5.4.15 
 CVE-2023-21715 <br> CVE-2023-23376 <br> CVE-2023-21823 | Microsoft | zero-days | 2022-02-15 | 2022-03-01 | [Microsoft Feb Patch]( https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-21715)
 CVE-2022-39952 | FortiNAC | | 2023-02-23 | 2023-03-09 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-300)
-CVE-2023-24835 | 中華數位 |  | 2023-03-01 | 2023-03-30 | 請更新至 2.221231(含) 以上版本 
+CVE-2023-24835 | 中華數位 SpamSQR |  | 2023-03-01 | 2023-03-30 | 請更新至 2.221231(含) 以上版本 
 CVE-2023-24841 <br> CVE-2023-24840 | HGiga MailSherlock |  | 2023-03-01 | 2023-03-30 | iSherlock-query-4.5-168.386.rpm
 CVE-2023-24837 | HGiga PowerStation | | 2023-03-01 | 2023-03-30 | firmware version < x64.6.2.165
 CVE-2022-39036 <br> CVE-2022-39037 <br> CVE-2022-39038 | Agentflow BPM V.4.0.0.1183.552 | |  2023-03-01 | 2023-03-30 | 依官方說明進行版本更新
+ n/a | LOTLbinaries | | 2023-03-01 | 2023-03-30 | [list](https://esg21.github.io/esg/LOTL)
+

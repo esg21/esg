@@ -38,5 +38,5 @@ CVE-2023-24835 | SpamSQR |  | 2023-03-01 | 2023-03-30 | 請更新至 2.221231(�
 CVE-2023-24841 <br> CVE-2023-24840 | HGiga MailSherlock |  | 2023-03-01 | 2023-03-30 | iSherlock-query-4.5-168.386.rpm
 CVE-2023-24837 | HGiga PowerStation | | 2023-03-01 | 2023-03-30 | firmware version < x64.6.2.165
 CVE-2022-39036 <br> CVE-2022-39037 <br> CVE-2022-39038 | Agentflow BPM V.4.0.0.1183.552 | |  2023-03-01 | 2023-03-30 | 依官方說明進行版本更新
- n/a | LOTLbinaries | | 2023-03-01 | 2023-03-30 | [list](https://esg21.github.io/esg/LOTL)
+ n/a | LOTLbinaries | | 2023-03-01 | 2023-03-30 | [lotl_list](https://esg21.github.io/esg/LOTL)
 

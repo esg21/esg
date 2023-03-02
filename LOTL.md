@@ -19,4 +19,4 @@ cmstp.exe <br>
 windbg.exe  <br>
 cdb.exe <br>
 csc.exe <br>
-
+regasm.exe <br>

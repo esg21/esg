@@ -20,3 +20,9 @@ windbg.exe  <br>
 cdb.exe <br>
 csc.exe <br>
 regasm.exe <br>
+presentationhost.exe <br>
+cscript.exe <br>
+controll.exe <br>
+msdt.exe <br>
+schtasks.exe <br>
+rundll32.exe <br>

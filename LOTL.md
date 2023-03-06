@@ -4,6 +4,7 @@
 powershell.exe <br>
 powershell_ise.exe <br>
 psexec.exe <br>
+procdump64.exe <br>
 bitsadmin.exe <br>
 regsvr32.exe <br>
 certutil.exe <br>

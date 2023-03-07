@@ -32,7 +32,7 @@ CVE-2022-47939 | Linux Kernel ksmbd |   | 2022-12-27 | 2023-01-19 | 前提: 有�
 CVE-2022-23529 | JsonWebToken 8.5.1 | OpenSource library | 2023-1-12 | 2023-1-19 | 影響版本:  <= 8.5.1 <br> 安全版本: 9.0.0
 CVE-2023-21674 <br> CVE-2023-21549 <br> CVE-2023-21746 | Windows | localpotato | 2023-1-12 | 2023-1-26 | [Microsoft_Jan_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21674)
 CVE-2022-48008 | LimeSurvey 5.4.15 |    | 2023-2-8 | 2023-2-16 | 影響版本: v5.4.15 
-CVE-2023-21715 <br> CVE-2023-23376 <br> CVE-2023-21823 | Microsoft | zero-days | 2022-02-15 | 2022-03-01 | [Microsoft Feb Patch]( https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-21715)
+CVE-2023-21716 <br> CVE-2023-21715 <br> CVE-2023-23376 <br> CVE-2023-21823 | Microsoft | Word RCE<br> zero-days | 2022-02-15 | 2022-03-01 | [Microsoft Feb Patch]( https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-21715)
 CVE-2022-39952 | FortiNAC | | 2023-02-23 | 2023-03-09 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-300)
 CVE-2023-24835 | SpamSQR |  | 2023-03-01 | 2023-03-30 | 請更新至 2.221231(含) 以上版本 
 CVE-2023-24841 <br> CVE-2023-24840 | HGiga MailSherlock |  | 2023-03-01 | 2023-03-30 | iSherlock-query-4.5-168.386.rpm

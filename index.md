@@ -38,7 +38,7 @@ CVE-2023-24835 | SpamSQR |  | 2023-03-01 | 2023-03-30 | 請更新至 2.221231(�
 CVE-2023-24841 <br> CVE-2023-24840 | HGiga MailSherlock |  | 2023-03-01 | 2023-03-30 | iSherlock-query-4.5-168.386.rpm
 CVE-2023-24837 | HGiga PowerStation | | 2023-03-01 | 2023-03-30 | firmware version < x64.6.2.165
 CVE-2022-39036 <br> CVE-2022-39037 <br> CVE-2022-39038 | Agentflow BPM V.4.0.0.1183.552 | |  2023-03-01 | 2023-03-30 | 依官方說明進行版本更新
- n/a | LOTLbinaries | | 2023-03-01 | 2023-04-15 | [lotl_list](https://esg21.github.io/esg/LOTL)
+Wasteland| LOTLbinaries | | 2023-03-01 | 2023-04-15 | [lotl_list](https://esg21.github.io/esg/LOTL)
 CVE-2022-41328 | Fortinet FortiOS |  | 2023-03-16 |  2023-03-30 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-369)
 CVE-2023-23397 <br> CVE-2023-24880 | Microsoft Outlook  | | 2023-03-16 |  2023-03-24 | [Microsoft_March_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Mar)
 

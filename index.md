@@ -42,4 +42,4 @@ Wasteland| LOTLbinaries | | 2023-03-01 | 2023-04-15 | [lotl_list](https://esg21.
 CVE-2022-41328 | Fortinet FortiOS |  | 2023-03-16 |  2023-03-30 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-369)
 CVE-2023-23397 <br> CVE-2023-24880 | Microsoft Outlook  | | 2023-03-16 |  2023-03-24 | [Microsoft_March_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Mar)
 CVE-2021-27877<br> CVE-2021-27876 <br> CVE-2021-27878 | Veritas Backup Exec <br> 16.x、20.x、21.x | | 2023-04-06 | 2023-04-27 | [Official Advisories](https://www.veritas.com/support/en_US/security/VTS21-001)
-
+CVE-2023-28252 | Microsoft | | 2023-04-13 | 2023-05-04 | [Microsoft April Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28252)

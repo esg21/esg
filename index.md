@@ -45,4 +45,5 @@ CVE-2021-27877<br> CVE-2021-27876 <br> CVE-2021-27878 | Veritas Backup Exec <br>
 CVE-2023-28252 | Microsoft | | 2023-04-13 | 2023-04-27 | [Microsoft April Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28252)
 CVE-2023-20082 | Cisco 9300 |  | 2023-04-24 | 2023-05-29 | [Official Advisories](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-c9300-spi-ace-yejYgnNQ)
 CVE-2023-25610 | Fortinet FortiOS | | 2023-04-24 | 2023-05-10 |[Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-001)
-
+CVE-2023-2033 | Google Chrome | | 2023-04-25 | 2023-05-10 | 
+CVE-2017-6742 | Cisco SNMP | |  2023-04-25 | 2023-05-10 | [Official Advisories](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170629-snmp)

@@ -47,3 +47,4 @@ CVE-2023-20082 | Cisco 9300 |  | 2023-04-24 | 2023-05-29 | [Official Advisories]
 CVE-2023-25610 | Fortinet FortiOS | | 2023-04-24 | 2023-05-10 |[Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-001)
 CVE-2023-2033 | Google Chrome | | 2023-04-25 | 2023-05-10 | 更新至版本號碼 V112.0.5615.121 或後續更新版本
 CVE-2017-6742 | Cisco SNMP | |  2023-04-25 | 2023-05-10 | [Official Advisories](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170629-snmp)
+CVE-2023-24932 <br> CVE-2023-29336 <br> CVE-2023-29325 | Microsoft | zero-days |  2023-05-11 | 2023-05-18 | [Official Advisories](https://msrc.microsoft.com/update-guide/releaseNote/2023-May)

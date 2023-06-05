@@ -1,0 +1,34 @@
+### Vulnerable Versions: 
+All MOVEit Transfer versions are affected by this vulnerability
+All versions of MOVEit Transfer before 2021.0.6 (13.0.6), 2021.1.4 (13.1.4), 2022.0.4 (14.0.4), 2022.1.5 (14.1.5), 2023.0.1 (15.0.1) are affected.
+
+
+### 在上Patch之前，Progress 官方建議管理員採取以下措施
+
+1. 防火牆拒絕對您的環境的訪問，禁用所有 HTTP 和 HTTPS 流量到您的 MOVEit 傳輸環境
+
+2. 檢查有無遭入侵利用跡象
+* On the MOVEit Transfer server, look for any new files created in the C:\MOVEitTransfer\wwwroot\ directory.
+* On the MOVEit Transfer server, look for new files created in the C:\Windows\TEMP\[random]\ directory with a file extension of [.]cmdline
+* Remove any unauthorized user accounts.
+* Review logs for unexpected downloads of files from unknown IPs or large numbers of files downloaded.
+* Reset service account credentials for affected systems and MOVEit Service Account
+
+3. 上Patch
+
+
+### 額外檢查
+* Search for a user named ‘Health Check Service’ within the MOVEit user database
+* Examine active sessions within the MOVEit database for the user ‘Health Check Service’
+* Search you web access logs for requests that contain any request or response headers listed above
+
+### 其他安全最佳指引
+
+* Update network firewall rules to only allow connections to the MOVEit Transfer infrastructure from known, trusted IP addresses
+* Review and remove any unauthorized accounts
+* Update remote access policies to only allow inbound connections from known and trusted IP addresses
+* Allow inbound access from trusted entities
+* Enable multi-factor authentication
+
+
+https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-31May2023

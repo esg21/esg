@@ -49,3 +49,4 @@ CVE-2023-2033 | Google Chrome | | 2023-04-25 | 2023-05-10 | 更新至版本號�
 CVE-2017-6742 | Cisco SNMP | |  2023-04-25 | 2023-05-10 | [Official Advisories](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170629-snmp)
 CVE-2023-22640| Fortinet FortiOS | |  2023-05-11 | 2023-06-08 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-22-475)
 CVE-2023-24932 <br> CVE-2023-29336 <br> CVE-2023-29325 | Microsoft | zero-days |  2023-05-11 | 2023-05-18 | [Official Advisories](https://msrc.microsoft.com/update-guide/releaseNote/2023-May)
+CVE-2023-34362| MOVEit Transfer | 0-day | 2023-06-05 | | [Official Advisories](https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-31May2023)

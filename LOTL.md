@@ -27,3 +27,16 @@ controll.exe <br>
 msdt.exe <br>
 schtasks.exe <br>
 rundll32.exe <br>
+<br>
+dnscmd <br>
+ldifde <br>
+makecab <br>
+net user/group/use <br>
+nltest <br>
+systeminfo <br>
+netsh <br>
+ntdsutil <br>
+reg query/save  <br>
+tasklist <br>
+wevtutil    <br>
+xcopy <br>

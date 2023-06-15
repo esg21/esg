@@ -51,3 +51,4 @@ CVE-2023-22640| Fortinet FortiOS | |  2023-05-11 | 2023-06-08 | [Official Adviso
 CVE-2023-24932 <br> CVE-2023-29336 <br> CVE-2023-29325 | Microsoft | zero-days |  2023-05-11 | 2023-05-18 | [Official Advisories](https://msrc.microsoft.com/update-guide/releaseNote/2023-May)
 CVE-2023-34362| MOVEit Transfer | 0-day | 2023-06-05 | 2023-06-14 | [Official Advisories](https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-31May2023) <br> [Detail](https://esg21.github.io/esg/2023-34362)
 CVE-2023-27997 | Fortinet FortiOS | | 2023-06-13 | 2023-06-21 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-097)
+CVE-2023-29357 | Microsoft Sharepoint| | 2023-06-15 | 2023-06-28 |  [Microsoft_June_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357)

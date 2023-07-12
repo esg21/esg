@@ -53,3 +53,5 @@ CVE-2023-34362| MOVEit Transfer | 0-day | 2023-06-05 | 2023-06-14 | [Official Ad
 CVE-2023-27997 | Fortinet FortiOS | | 2023-06-13 | 2023-06-21 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-097)
 CVE-2023-29357 | Microsoft Sharepoint| | 2023-06-15 | 2023-06-28 |  [Microsoft_June_Patch](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357)
 Wasteland| LOTLbinaries | Part3 | 2023-06-01 | 2023-07-05 | [lotl_list](https://esg21.github.io/esg/LOTL)
+CVE-2023-32046 <br> CVE-2023-32049 <br> CVE-2023-35311 <br> CVE-2023-36874 | Microsoft | |2023-07-12 | 2023-07-20 | [Microsoft_July_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Jul)
+CVE-2023-36884 <br> ADV230001 | Microsoft | 0days |2023-07-12 | | [Official Advisories](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-36884)

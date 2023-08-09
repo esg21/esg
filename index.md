@@ -58,4 +58,4 @@ CVE-2023-36884  | Office | 0days |2023-07-12 | 2023-08-17 | [Official Advisories
 CVE-2023-3519 <br> CVE-2023-3467 <br> CVE-2023-3467 | Citrix ADC, Citrix Gateway | | 2023-07-19 | 2023-07-25 | [Official Advisories](https://support.citrix.com/article/CTX561482/citrix-adc-and-citrix-gateway-security-bulletin-for-cve20233519-cve20233466-cve20233467)
 CVE-2023-37292 | HGiga iSherlock | | 2023-08-04 | 2023-08-17 | [twcert](https://www.twcert.org.tw/tw/cp-132-7239-8fc29-1.html)
 CVE-2023-35078 <br> CVE-2023-35081 | Ivanti EPMM | | 2023-08-07 | 2023-08-24 | [Official Advisories](https://forums.ivanti.com/s/article/CVE-2023-35078-Remote-unauthenticated-API-access-vulnerability?language=en_US)
-CVE-2023-38180 | Microsoft |  | 2023-08-09 | 2023-08-24 | [Microsoft_Aug_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Aug)
+CVE-2023-38180 <br> CVE-2023-38181 | Microsoft |  | 2023-08-09 | 2023-08-24 | [Microsoft_Aug_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Aug)

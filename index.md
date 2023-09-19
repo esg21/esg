@@ -61,4 +61,4 @@ CVE-2023-35078 <br> CVE-2023-35081 | Ivanti EPMM | | 2023-08-07 | 2023-08-24 | [
 CVE-2023-38180 <br> CVE-2023-38181 | Microsoft |  | 2023-08-09 | 2023-08-24 | [Microsoft_Aug_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Aug)
 CVE-2023-40477 <br> CVE-2023-38831 | WinRAR | |  2023-08-22 |  2023-09-14 | 升級至 6.23 以上
 CVE-2023-36761 <br> CVE-2023-36802 <br> CVE-2023-38148 <br> CVE-2023-38146 | Microsoft | |　2023-09-13 | 2023-09-28 | [Microsoft_Sep_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Sep)
-
+CVE-2023-29183 | FortiOS | | 2023-09-20 | 2023-09-04 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-106)

@@ -63,5 +63,5 @@ CVE-2023-40477 <br> CVE-2023-38831 | WinRAR | |  2023-08-22 |  2023-09-14 | 升�
 CVE-2023-36761 <br> CVE-2023-36802 <br> CVE-2023-38148 <br> CVE-2023-38146 | Microsoft | | 2023-09-13 | 2023-09-28 | [Microsoft_Sep_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Sep)
 CVE-2023-29183 | FortiOS | | 2023-09-20 | 2023-10-04 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-106)
 CVE-2023-41179 | TrendMicro ApexOne | | 2023-09-21 | 2023-10-05 | [Official Advisories](https://success.trendmicro.com/dcx/s/solution/000294994?language=en_US)
-
+CVE-2023-4998 | GitLab | | 2023-09-21 | 2023-10-05 |  CE & EE  v13.12~16.2.7之前 <br>  v16.3~16.3.4之前 <br> [Official Advisories](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
 

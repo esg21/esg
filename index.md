@@ -66,3 +66,4 @@ CVE-2023-41179 | TrendMicro ApexOne | | 2023-09-21 | 2023-10-05 | [Official Advi
 CVE-2023-4998 | GitLab | | 2023-09-21 | 2023-10-05 |  CE & EE  v13.12 ~ 16.2.7之前 <br>  v16.3 ~ 16.3.4之前 <br> [Official Advisories](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
 CVE-2023-42115 | Exim MTA | | 2023-10-04 | 2023-10-12 | all versions affected 
 CVE-2023-40044 <br> CVE-2023-42657 | WS_FTP | |  2023-10-04 | 2023-10-12 | affects prior to 8.7.4 and 8.8.2 <br> update to 8.8.2 <br> or disable Ad Hoc Transfer module |
+CVE-2023-4966 <br> CVE-2023-4967 | Citrix NetScaler | | 2023-10-12 | 2023-10-19 | [Official Advisories](https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967) 

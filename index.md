@@ -68,3 +68,4 @@ CVE-2023-42115 | Exim MTA | | 2023-10-04 | 2023-10-12 | all versions affected
 CVE-2023-40044 <br> CVE-2023-42657 | WS_FTP | |  2023-10-04 | 2023-10-12 | affects prior to 8.7.4 and 8.8.2 <br> update to 8.8.2 <br> or disable Ad Hoc Transfer module |
 CVE-2023-4966 <br> CVE-2023-4967 | Citrix NetScaler | | 2023-10-12 | 2023-10-19 | [Official Advisories](https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967) 
 CVE-2023-36778 <br> CVE-2023-41763 <br> CVE-2023-36563 <br> CVE-2023-44487 | Microsoft | |  2023-10-12 | 2023-10-26 | [Microsoft_Oct_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Oct)
+CVE-2023-41841 | FortiOS | | 2023-10-13 | 2023-11-02 | [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-318)

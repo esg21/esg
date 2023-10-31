@@ -72,4 +72,4 @@ CVE-2023-41841 | FortiOS | | 2023-10-13 | 2023-11-02 | [Official Advisories](htt
 CVE-2023-40714 | FortiSIEM  |  | 2023-10-13 | 2023-10-26 | [Official Advisories](https://fortiguard.fortinet.com/psirt/FG-IR-23-085)
 CVE-2023-25607 <br> CVE-2023-42788 <br> CVE-2023-41679 <br> CVE-2023-42791 | FortiManager <br> FortiAnalyzer | | 2023-10-13 | 2023-11-02 | 
 CVE-2023-20198 | Cisco | | 2023-10-17 | 2023-10-25 | affects IOS XE http server <br> [Official Advisories](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-privesc-j22SaA4z)
-CVE-2023-34048 | VMware vCenter | 2023-10-31 | 2023-11-23 | [Official Advisories](https://www.vmware.com/security/advisories/VMSA-2023-0023.html)
+CVE-2023-34048 | VMware vCenter | | 2023-10-31 | 2023-11-23 | [Official Advisories](https://www.vmware.com/security/advisories/VMSA-2023-0023.html)

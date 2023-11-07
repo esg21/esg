@@ -75,4 +75,4 @@ CVE-2023-20198 | Cisco | | 2023-10-17 | 2023-10-25 | affects IOS XE http server 
 CVE-2023-34048 | VMware vCenter | | 2023-10-31 | 2023-11-23 | [Official Advisories](https://www.vmware.com/security/advisories/VMSA-2023-0023.html)
 CVE-2023-46604 | Apache ActiveMQ | | 2023-11-07 | 2023-11-30 | [參考資訊](https://www.openwall.com/lists/oss-security/2023/10/27/5)
 CVE-2023-23368 <br> CVE-2023-23369 | Qnap QTS |  | 2023-11-07 | 2023-11-30 | [Official Advisories](https://www.qnap.com/en/security-advisory/qsa-23-31) <br> [Official Advisories](https://www.qnap.com/en/security-advisory/qsa-23-35)
-CVE-2023-38547 <br> CVE-2023-38548 <br> CVE-2023-38549 <br> CVE-2023-41723 | Veeam ONE 11 12 | 2023-11-07 | 2023-11-30 | [Official Advisories](https://www.veeam.com/kb4508) 
+CVE-2023-38547 <br> CVE-2023-38548 <br> CVE-2023-38549 <br> CVE-2023-41723 | Veeam ONE 11 12 | | 2023-11-07 | 2023-11-30 | [Official Advisories](https://www.veeam.com/kb4508) 

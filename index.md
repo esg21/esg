@@ -79,3 +79,4 @@ CVE-2023-38547 <br> CVE-2023-38548 <br> CVE-2023-38549 <br> CVE-2023-41723 | Vee
 CVE-2023-36036 <br> CVE-2023-36033 <br> CVE-2023-36025 <br> CVE-2023-36413 <br> CVE-2023-36038 | Microsoft | 0days | 2023-11-16 | 2023-11-30 | [Microsoft_Nov_Patch](https://msrc.microsoft.com/update-guide/releaseNote/2023-Nov)
 CVE-2023-36553 | FortiSIEM  |  | 2023-11-17 | 2023-11-30 | OS command injection <br> 影響 4.7~5.4 <br> [Official Advisories](https://www.fortiguard.com/psirt/FG-IR-23-135)
 CVE-2023-49103 <br> CVE-2023-49104 | ownCloud | | 2023-11-29 | 2023-12-7 | [Official fix](https://marketplace.owncloud.com/apps/graphapi) <br> [Official Advisories](https://owncloud.com/security-advisories/disclosure-of-sensitive-credentials-and-configuration-in-containerized-deployments/)
+CVE-2023-6345 | Google Chrome | | 2023-11-29 | 2023-12-14 | 
